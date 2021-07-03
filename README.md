@@ -26,8 +26,7 @@ $ cd algotrading_backtesting
 - put everything together and build trade list
 - run backtest
 - perform profit-and-loss (PnL) attribution
-- build portfolio characteristics
-- 
+- build portfolio characteristics- 
 
 ## Results
 PnL mostly attributed to alpha factors and very little to risk factors. Gross market value of portfolio very volatile, but increasing.
