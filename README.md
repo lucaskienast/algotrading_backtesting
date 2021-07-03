@@ -4,8 +4,8 @@ In this project, I built a fairly realistic backtester that uses the Barra data.
 ## Installation
 Use `git clone` to get a copy of this repository.
 ```
-$ git clone https://github.com/lucaskienast/algotrading_random_forest_enhanced_alpha.git
-$ cd algotrading_random_forest_enhanced_alpha
+$ git clone https://github.com/lucaskienast/algotrading_backtesting.git
+$ cd algotrading_backtesting
 ```
 
 ## Method
